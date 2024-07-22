@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Rui31415/Rui31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Page!
 
-Here are some ideas to get you started:
+Hello, I'm Rui, a software developer passionate about control and robotics. I am deeply interested in exploring how technological innovations can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 I am currently learning **Model Predictive Control** and **Reinforcement Learning**, attempting to apply these technologies in automation and intelligent system development.
+- 🔭 My projects are primarily focused on developing robotic applications about **Bipedal Locomotion**.
+- 🤖 I am passionate about developing practical robotic solutions and exploring new technologies.
+
+## Interests
+- Robotics, Optimization-based control, Reinforcement Learning
+- Simulation software development: ROS&Gazebo, Mujoco, Isaac Gym
+- Robotics programming
+
+## Contact Me
+- 📫 How to reach me: rz1321@ic.ac.uk
+
+Thank you for visiting, and I hope my projects inspire you!
